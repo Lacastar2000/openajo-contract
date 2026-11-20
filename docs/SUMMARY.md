@@ -5,6 +5,7 @@
 ## 🧠 Design
 
 * [The circle lifecycle](design/lifecycle.md)
+  * [Sequence diagrams](design/lifecycle.md#sequence-diagrams)
 * [Deposits, slashing & default](design/deposits-and-default.md)
 * [Settlement](design/settlement.md)
 * [Reputation](design/reputation.md)
